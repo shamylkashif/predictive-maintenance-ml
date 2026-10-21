@@ -14,6 +14,7 @@ This project uses the AI4I 2020 Predictive Maintenance dataset to predict machin
 AI4I 2020 Predictive Maintenance Dataset, available on Kaggle.
 
 The dataset contains 10,000 records with machine operating measurements and failure labels.
+Source: [AI4I 2020 Predictive Maintenance Dataset — Kaggle](https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020)
 
 ## Methods and Tools
 - Python, Pandas
